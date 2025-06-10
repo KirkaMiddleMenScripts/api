@@ -1,12 +1,12 @@
 [
   {
     "User": "Y2OOB2",
-    "badge": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/2048px-Twitter_Verified_Badge.svg.png",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/2048px-Twitter_Verified_Badge.svg.png",
     "bg": "https://supabase.com/_next/image?url=%2Fimages%2Findex%2Fproducts%2Fedge-functions-dark.svg&w=1920&q=100"
   },
   {
     "User": "YMLB6S",
-    "badge": "",
+    "img": "",
     "bg": "https://supabase.com/_next/image?url=%2Fimages%2Fcustomers%2Flogos%2Fnext-door-lending.png&w=640&q=75"
   }
 ]
