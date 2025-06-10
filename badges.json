@@ -7,6 +7,11 @@
   {
     "User": "YMLB6S",
     "img": "",
-    "bg": "https://supabase.com/_next/image?url=%2Fimages%2Fcustomers%2Flogos%2Fnext-door-lending.png&w=640&q=75"
+    "bg": ""
+  },
+  {
+    "User": "Y0VH1E",
+    "img": "https://cdn3.emoji.gg/emojis/4760-irlbanned.png",
+    "bg": "https://th.bing.com/th/id/OIP.mnzSKaAvKSc2EgvQ76eKWgHaE8?dpr=1.2&pid=ImgDetMain"
   }
 ]
