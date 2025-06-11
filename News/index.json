@@ -23,6 +23,6 @@
     "category": "Discord",
     "tag": "KMM",
     "bg": "https://www.shutterstock.com/shutterstock/videos/3629388961/thumb/1.jpg?ip=x480",
-    "gradient": "linear-gradient(to right, #ff9900, #0066cc, #ff9900)"
+    "gradient": "linear-gradient(to right, #0099cc, #ff9900, #0066cc, #0099cc, #ff9900)"
   }
 ]
