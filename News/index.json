@@ -1,18 +1,5 @@
 [
   {
-    "_id": "66beee8f929cbdbf66174d75",
-    "img": "https://cdn.discordapp.com/emojis/1086211972997062736.webp",
-    "imgType": "small",
-    "title": "VinK Discord",
-    "content": "Join the Gang on discord",
-    "link": "https://discord.gg/cx7R3gjuEJ",
-    "updatedAt": 1748821069968,
-    "category": "Discord",
-    "tag": "🔥",
-    "bg": "https://www.shutterstock.com/shutterstock/videos/3629388961/thumb/1.jpg?ip=x480",
-    "gradient": "linear-gradient(to right, #0a1a3f, #1a1a1a, #0a1a3f)"
-  },
-  {
     "_id": "66beee8f929cbdbf66174kmm",
     "img": "https://cdn.discordapp.com/icons/1349863652697706628/170d8f43b0933459f647d699a7516acf.png?size=4096",
     "imgType": "small",
@@ -24,5 +11,18 @@
     "tag": "KMM",
     "bg": "https://www.shutterstock.com/shutterstock/videos/3629388961/thumb/1.jpg?ip=x480",
     "gradient": "linear-gradient(to right, #0099cc, #ff9900, #0066cc, #0099cc, #ff9900)"
+  },
+  {
+    "_id": "66beee8f929cbdbf66174jmac",
+    "img": "https://cdn.discordapp.com/icons/1339815278187380827/43005050efe3bb2f9957b405b2c11661.png?size=4096",
+    "imgType": "small",
+    "title": "Jmac is streaming ???",
+    "content": "Jmac is LIVE on twitch.",
+    "link": "https://www.twitch.tv/jmac_999",
+    "updatedAt": 1748821069968,
+    "category": "LIVE",
+    "tag": "LIVE",
+    "bg": "https://www.shutterstock.com/shutterstock/videos/3629388961/thumb/1.jpg?ip=x480",
+    "gradient": "linear-gradient(to right, #800080, #800080, #800080, #800080, #800080)"
   }
 ]
